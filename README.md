@@ -9,7 +9,7 @@ Zotero-Actions
 ![1778486909608](./image/1778486909608.png)
 
 # 🎓Get hjfy CN_PDF
-- **功能：自动获取 hjfy 中文翻译 PDF，导入为附件，并优先设为默认打开的 PDF（兼容 Zotero 6、7、8、9、all）**
+- **功能：自动获取 hjfy 中文翻译 PDF，导入为附件（未翻译的会自动弹窗并翻译），并优先设为默认打开的 PDF（兼容 Zotero 6、7、8、9、all）**
 - **解决：已有插件 Zotero 兼容问题**
 - Discussions: https://github.com/windingwind/zotero-actions-tags/discussions/614
   
