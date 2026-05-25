@@ -1,5 +1,4 @@
-Zotero-Actions
-================
+# Zotero-Actions <img src="https://visitor-badge.laobi.icu/badge?page_id=Peaceful-World-X.Zotero-Actions" alt="Visitors"/>
 
 **自用轻量的 Zotero 动作脚本，依赖于 Zotero Actions & Tags 插件。**
 
